@@ -41,7 +41,7 @@ I'm skilled in community and social media management, with a keen eye for data-d
 
 ## Experience
 
-### Researcher @ UEMA
+### Student/Researcher @ UEMA
 *(2025 - Present)*
 * Learning about Computer and Systems Engineering
 * Researching about NLP and its usages for my thesis.
