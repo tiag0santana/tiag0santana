@@ -76,6 +76,6 @@ I'm skilled in community and social media management, with a keen eye for data-d
 *   **Twitter:** [@tiagosantana](https://twitter.com/tiagosantana)
 
 ## [#30NitesOfCode](https://www.codedex.io/@tiagosantana70134/30-nites-of-code)
-![my pet](https://www.codedex.io/images/code-nights/baby-neutral-dinosaur.gif)
+![my pet]([https://www.codedex.io/images/code-nights/baby-neutral-dinosaur.gif](https://www.codedex.io/images/code-nights/evolved-happy-dinosaur.gif))
 
 Looking forward to collaborating and building amazing things!
